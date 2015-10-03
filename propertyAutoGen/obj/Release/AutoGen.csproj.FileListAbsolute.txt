@@ -1,0 +1,8 @@
+C:\Users\Admin\Documents\Visual Studio 2008\Projects\propertyAutoGen\propertyAutoGen\bin\Release\propertyAutoGen.exe
+C:\Users\Admin\Documents\Visual Studio 2008\Projects\propertyAutoGen\propertyAutoGen\bin\Release\propertyAutoGen.pdb
+C:\Users\Admin\Documents\Visual Studio 2008\Projects\propertyAutoGen\propertyAutoGen\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2008\Projects\propertyAutoGen\propertyAutoGen\obj\Release\propertyAutoGen.AutoGenForm.resources
+C:\Users\Admin\Documents\Visual Studio 2008\Projects\propertyAutoGen\propertyAutoGen\obj\Release\propertyAutoGen.Properties.Resources.resources
+C:\Users\Admin\Documents\Visual Studio 2008\Projects\propertyAutoGen\propertyAutoGen\obj\Release\AutoGen.csproj.GenerateResource.Cache
+C:\Users\Admin\Documents\Visual Studio 2008\Projects\propertyAutoGen\propertyAutoGen\obj\Release\propertyAutoGen.exe
+C:\Users\Admin\Documents\Visual Studio 2008\Projects\propertyAutoGen\propertyAutoGen\obj\Release\propertyAutoGen.pdb

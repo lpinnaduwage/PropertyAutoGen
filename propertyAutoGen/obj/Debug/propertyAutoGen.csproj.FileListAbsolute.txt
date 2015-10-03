@@ -1,0 +1,8 @@
+C:\Users\Admin\AppData\Local\Temporary Projects\propertyAutoGen\bin\Debug\propertyAutoGen.exe
+C:\Users\Admin\AppData\Local\Temporary Projects\propertyAutoGen\bin\Debug\propertyAutoGen.pdb
+C:\Users\Admin\AppData\Local\Temporary Projects\propertyAutoGen\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Admin\AppData\Local\Temporary Projects\propertyAutoGen\obj\Debug\propertyAutoGen.AutoGenForm.resources
+C:\Users\Admin\AppData\Local\Temporary Projects\propertyAutoGen\obj\Debug\propertyAutoGen.Properties.Resources.resources
+C:\Users\Admin\AppData\Local\Temporary Projects\propertyAutoGen\obj\Debug\propertyAutoGen.csproj.GenerateResource.Cache
+C:\Users\Admin\AppData\Local\Temporary Projects\propertyAutoGen\obj\Debug\propertyAutoGen.exe
+C:\Users\Admin\AppData\Local\Temporary Projects\propertyAutoGen\obj\Debug\propertyAutoGen.pdb
