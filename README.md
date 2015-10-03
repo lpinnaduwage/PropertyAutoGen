@@ -1,0 +1,3 @@
+# PropertyAutoGen
+Generates BLL Code
+ 
